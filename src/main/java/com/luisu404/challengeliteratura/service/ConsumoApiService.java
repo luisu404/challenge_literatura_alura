@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 @Service
 public class ConsumoApiService {
-    public String obtenerDatos(String url) {
+    public String obtenerDatosfromApi(String url) {
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(url))
