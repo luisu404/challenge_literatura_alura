@@ -69,5 +69,5 @@ Aplicar:
 
 ## 👨‍💻 Autor
 
-Luis  
+Luis Urbaez (luisu404)
 Oracle Next Education - Alura Latam  
